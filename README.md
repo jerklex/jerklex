@@ -1,16 +1,35 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlic280czVoNGpoeTFvcndnOHB2NG5uaHFuYTBwbW9haGpqYnhxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300"/>
+</div>
+<h1 align="center">
+  Merhaba
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**jerklex/jerklex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: Hakkımda :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Ben, kullanıcı dostu ve etkileyici dijital deneyimler yaratmaya tutkulu bir frontend web tasarımcıyım. HTML, CSS ve JavaScript konusunda güçlü bir temele sahibim ve 4-5 yıllık deneyimimle tasarım konseptlerini duyarlı ve dinamik web sitelerine dönüştürmeyi seviyorum.
+
+  #### 💼 Yaptığım Şeyler:
+
+- **Frontend Geliştirme:** Kullanıcı dostu ve görsel açıdan çekici arayüzler oluşturuyorum.
+- **Duyarlı Tasarım:** Farklı cihazlar ve ekran boyutlarında sorunsuz deneyimler sunmaya özen gösteriyorum.
+- **Web Erişilebilirliği:** Web’in herkes için erişilebilir olmasını sağlamak konusunda kararlıyım.
+
+#### 🚀 Kullandığım Teknolojiler:
+- **Diller:** HTML, CSS, JavaScript
+- **Kütüphaneler:** Bootstrap, TailwindCSS
+- **Araçlar:** VS Code, Git, GitHub
+
+
+Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn something new!
+
+Happy coding! 🚀
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerklex&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerklex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
