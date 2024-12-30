@@ -24,9 +24,7 @@
 - **Araçlar:** VS Code, Git, GitHub
 
 
-Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn something new!
-
-Happy coding! 🚀
+Projelerimi keşfetmekten çekinmeyin. İşbirliğine açığım ve her zaman yeni şeyler öğrenmeye heyecanlıyım!🚀
 
 ### :fire: My Stats :
 
