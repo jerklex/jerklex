@@ -26,7 +26,7 @@
 
 Projelerimi keşfetmekten çekinmeyin. İşbirliğine açığım ve her zaman yeni şeyler öğrenmeye heyecanlıyım!🚀
 
-### :fire: My Stats :
+### :fire: İstatiklerim :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerklex&theme=dark&background=000000)](https://git.io/streak-stats)
 
