@@ -28,6 +28,6 @@ Projelerimi keşfetmekten çekinmeyin. İşbirliğine açığım ve her zaman ye
 
 ### :fire: İstatiklerim :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerklex&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jerklex&theme=dark&border_radius=5&locale=tr&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerklex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
